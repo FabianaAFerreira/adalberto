@@ -7,7 +7,7 @@
 body{
   background-image: url(/imag/Imagem\ site\ Artigo\ 24\ 10.jpg);
   display: flex;
-  flex-direction: 100%;
+  align-items: flex-start;
 }
 
 header {
